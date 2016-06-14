@@ -14,14 +14,25 @@ index="/Users/thomer2/GitHub/DHOxSS2016/TJPindexClean.csv"
 # 	for row in spamreader:
 # 		print (', '.join(row))
 
+# csv.register_dialect(
+#     'mydialect',
+#     delimiter = ',',
+#     quotechar = '"',
+#     doublequote = True,
+#     skipinitialspace = True,
+#     lineterminator = '\r\n',
+#     quoting = csv.QUOTE_MINIMAL)
+ #this and next commented section from https://www.getdatajoy.com/examples/python-data-analysis/read-and-write-a-csv-file-with-the-csv-module - trying to write to a damn csv!
 
 with open(infile, 'r') as myfile:
     datas=myfile.read()
     datas=datas.split('\n\n\n')
 
-csvfile=open('output.csv','w', newline='')
-	scribble=csv.writer(csvfile,delimiter=' ',quotechar='',quoting=csv.QUOTE_MINIMAL)
-	
+# with open('TJPindex.csv', 'rb') as mycsvfile:
+#     thedata = csv.reader(mycsvfile, dialect='mydialect')
+#     for row in thedata:
+#         print(row[0]+"\t \t"+row[1]+"\t \t"+row[4])
+        	
 for i in datas:
 	if "Box" in i:
 		continue #or pass works equally well
@@ -33,13 +44,10 @@ for i in datas:
 
 
 # with open(index, 'wb') as csvfile:
-# 	spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+# 	spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
 # 	for row in spamreader:
 # 		print (', '.join(row))
 
-
-
-# 		
 # for i in range(10,20):
 #   if 'Box' in m[i]:
 # ...   print("yuppers " + m[i])
