@@ -16,13 +16,27 @@ index="/Users/thomer2/GitHub/DHOxSS2016/TJPindexClean.csv"
 
 
 with open(infile, 'r') as myfile:
-    data=myfile.read().split('\n\n\n', '')
+    datas=myfile.read()
+    datas=datas.split('\n\n\n')
 
-for i in data:
-	if "Box" in data[i]:
-		continue
+csvfile=open('output.csv','w', newline='')
+	scribble=csv.writer(csvfile,delimiter=' ',quotechar='',quoting=csv.QUOTE_MINIMAL)
+	
+for i in datas:
+	if "Box" in i:
+		continue #or pass works equally well
 	else:
-		print ("this is data!!! and I will put it in a row eventually!")
+		print ("this is data!!! and I will put it in a row!")
+		scribble.writerow(i)
+
+
+
+
+# with open(index, 'wb') as csvfile:
+# 	spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+# 	for row in spamreader:
+# 		print (', '.join(row))
+
 
 
 # 		
@@ -48,32 +62,32 @@ for i in data:
 
 
 
-st = StanfordNERTagger('/Users/thomer2/stanford-ner-2015-12-09/classifiers/english.all.3class.distsim.crf.ser.gz','/Users/thomer2/stanford-ner-2015-12-09/stanford-ner.jar',encoding='utf-8') 
-
-text = 'While in France, Christine Lagarde discussed short-term stimulus efforts in a recent interview with the Wall Street Journal.'
-
-TJPtext = '''My Dear Sir, 
-I only received your favour of the 16th late last night, on my return from the Syro-Egyptian, or I would have answered before.  
-I shall be very happy to meet Mr Wright at the Archaeological meeting this evening, the meeting of which society indeed, I have attended on the last occasion.  
-Believe me, 
-My dear sir, 
-Yours very sincerely, 
-W. Francis Ainsworth
-Wednesday Morn
-Dec 17th 1845'''
-
-len(TJPtext)
-tokens=word_tokenize(TJPtext)
-text=nltk.Text(tokens)
-text.collocations()
-def lexical_div(text):
-  return len(set(text))/len(text)
-long_words = [w for w in V if len(w) > 10]
-sorted(long_words)
-fdist=FreqDist(text)
-sorted(w for w in set(text)if len(w)>2 and fdist[w]>2
-nltk.pos_tag(text)
-tokenized_text = word_tokenize(text)
-classified_text = st.tag(tokenized_text)
-
-print(classified_text)
+# st = StanfordNERTagger('/Users/thomer2/stanford-ner-2015-12-09/classifiers/english.all.3class.distsim.crf.ser.gz','/Users/thomer2/stanford-ner-2015-12-09/stanford-ner.jar',encoding='utf-8') 
+# 
+# text = 'While in France, Christine Lagarde discussed short-term stimulus efforts in a recent interview with the Wall Street Journal.'
+# 
+# TJPtext = '''My Dear Sir, 
+# I only received your favour of the 16th late last night, on my return from the Syro-Egyptian, or I would have answered before.  
+# I shall be very happy to meet Mr Wright at the Archaeological meeting this evening, the meeting of which society indeed, I have attended on the last occasion.  
+# Believe me, 
+# My dear sir, 
+# Yours very sincerely, 
+# W. Francis Ainsworth
+# Wednesday Morn
+# Dec 17th 1845'''
+# 
+# len(TJPtext)
+# tokens=word_tokenize(TJPtext)
+# text=nltk.Text(tokens)
+# text.collocations()
+# def lexical_div(text):
+#   return len(set(text))/len(text)
+# long_words = [w for w in V if len(w) > 10]
+# sorted(long_words)
+# fdist=FreqDist(text)
+# sorted(w for w in set(text)if len(w)>2 and fdist[w]>2
+# nltk.pos_tag(text)
+# tokenized_text = word_tokenize(text)
+# classified_text = st.tag(tokenized_text)
+# 
+# print(classified_text)
