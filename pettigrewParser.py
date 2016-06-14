@@ -9,20 +9,34 @@ import nltk, re, pprint, csv
 infile="pettigrew_letters_gm.txt"
 index="/Users/thomer2/GitHub/DHOxSS2016/TJPindexClean.csv"
 
-with open(index, 'wb') as csvfile:
-	spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
-	for row in spamreader:
-		print (', '.join(row))
+# with open(index, 'wb') as csvfile:
+# 	spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+# 	for row in spamreader:
+# 		print (', '.join(row))
 
 
-with open('data.txt', 'r') as myfile:
+with open(infile, 'r') as myfile:
     data=myfile.read().split('\n\n\n', '')
 
-counter = 0
+for i in data:
+	if "Box" in data[i]:
+		continue
+	else:
+		print ("this is data!!! and I will put it in a row eventually!")
 
-with open(infile) as p:
-	counter += 1
-	filename="pettigrew"+str(counter)
+
+# 		
+# for i in range(10,20):
+#   if 'Box' in m[i]:
+# ...   print("yuppers " + m[i])
+# ...  else:
+# ...   continue
+	
+# counter = 0
+# 
+# with open(infile) as p:
+# 	counter += 1
+# 	filename="pettigrew"+str(counter)
 
 
 # can break each letter on "BOX?"	
