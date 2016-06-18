@@ -6,59 +6,126 @@ from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
 import nltk, re, pprint, csv
 
-infile="pettigrew_letters_gm.txt"
-index="/Users/thomer2/GitHub/DHOxSS2016/TJPindexClean.csv"
+infile="pettigrewSubset.txt"
+# index="/Users/thomer2/GitHub/DHOxSS2016/TJPindexClean.csv"
 
-# with open(index, 'wb') as csvfile:
-# 	spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
-# 	for row in spamreader:
-# 		print (', '.join(row))
-
-# csv.register_dialect(
-#     'mydialect',
-#     delimiter = ',',
-#     quotechar = '"',
-#     doublequote = True,
-#     skipinitialspace = True,
-#     lineterminator = '\r\n',
-#     quoting = csv.QUOTE_MINIMAL)
- #this and next commented section from https://www.getdatajoy.com/examples/python-data-analysis/read-and-write-a-csv-file-with-the-csv-module - trying to write to a damn csv!
 
 with open(infile, 'r') as myfile:
-    datas=myfile.read()
-    datas=datas.split('\n\n\n')
+	datas=myfile.read()
+	datas=datas.split('\n\n\n')
 
-# with open('TJPindex.csv', 'rb') as mycsvfile:
-#     thedata = csv.reader(mycsvfile, dialect='mydialect')
-#     for row in thedata:
-#         print(row[0]+"\t \t"+row[1]+"\t \t"+row[4])
-        	
+# with open(index,'r') as indexfile:
+#	d1=csv.reader(indexfile)
+	
+
+outfile = open("someData.csv","a")
+w=csv.writer(outfile)
+
+indBox=[]
+allBoxes=[]
+
 for i in datas:
-	if "Box" in i:
-		continue #or pass works equally well
+
+	if i.startswith("Box"):
+		allBoxes.append(indBox)
+#		print(allBoxes)
+		indBox=[]
+		indBox.append(i)
+#		print(indBox)
+		
+		
 	else:
-		print ("this is data!!! and I will put it in a row!")
-		scribble.writerow(i)
+		indBox.append(i)
+#		print(indBox)
+allBoxes.append(indBox) #necessary to close loop and append last box
+
+#silly counter printer that takes up less printspace than full thingy
+
+for i in allBoxes:
+	if i==[]:
+		pass
+	else:
+		print("bop")
+		for n in i:
+			print ("beep")
+
+indLetter=[]
+allLetters=[]
+countyMcCountFace=0
+
+
+for box in allBoxes:
+	if box ==[]:
+		pass
+	else:
+		letters=box[1::]
+		for i in letters:
+			indLetter=[box[0]]
+			indLetter.append(i)
+			allLetters.append(indLetter)
+			countyMcCountFace=countyMcCountFace+1
+			print(countyMcCountFace)
+			print(indLetter)
+			
+			indLetter=[]
+
+# 	if len(i)==2:
+# 		indRow=[]
+# 		indRow=i
+# 		allRows.append(i)
+# 	else:
+# 		
+# 		indRow.append(i[0]).append(i[1]).append(i[next])
+	
+
+# print (allBoxes[0])
+# print (allBoxes[1])
+		
+	
+# 	print(allBoxes)
+# 		while status =0
+# 			if "Box" in maybetext:
+# 				status=1
+# 			else:
+# 				w.writerow([folder,name,maybetext])
+# 				next=datas.index(i)+1
+# 				maybetext=datas[next]
+# 			continue
+# 		print(text)
+
+
+
+#		text=datas.next()
+#		w.writerow([folder,name])
+		
+#		else:
+#			boxMeta.append[i]
+#			print(boxMeta)
+# 
+#		continue #or pass works equally well
+#	else:
+#		print ("this is data!!! and I will put it in a row!")
+#		w.writerow([boxMeta[0]],[boxMeta[1]],[i])
 
 
 
 
 # with open(index, 'wb') as csvfile:
-# 	spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
-# 	for row in spamreader:
-# 		print (', '.join(row))
+#	spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
+#	for row in spamreader:
+#		print (', '.join(row))
 
 # for i in range(10,20):
-#   if 'Box' in m[i]:
-# ...   print("yuppers " + m[i])
+#	if 'Box' in m[i]:
+# ...	print("yuppers " + m[i])
 # ...  else:
-# ...   continue
+# ...	continue
 	
 # counter = 0
 # 
 # with open(infile) as p:
-# 	counter += 1
-# 	filename="pettigrew"+str(counter)
+#	counter += 1
+#	filename="pettigrew"+str(counter)
 
 
 # can break each letter on "BOX?"	
@@ -69,6 +136,20 @@ for i in datas:
 
 
 
+# with open(index, 'wb') as csvfile:
+#	spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+#	for row in spamreader:
+#		print (', '.join(row))
+
+# csv.register_dialect(
+#	  'mydialect',
+#	  delimiter = ',',
+#	  quotechar = '"',
+#	  doublequote = True,
+#	  skipinitialspace = True,
+#	  lineterminator = '\r\n',
+#	  quoting = csv.QUOTE_MINIMAL)
+ #this and next commented section from https://www.getdatajoy.com/examples/python-data-analysis/read-and-write-a-csv-file-with-the-csv-module - trying to write to a damn csv!
 
 # st = StanfordNERTagger('/Users/thomer2/stanford-ner-2015-12-09/classifiers/english.all.3class.distsim.crf.ser.gz','/Users/thomer2/stanford-ner-2015-12-09/stanford-ner.jar',encoding='utf-8') 
 # 
@@ -89,7 +170,7 @@ for i in datas:
 # text=nltk.Text(tokens)
 # text.collocations()
 # def lexical_div(text):
-#   return len(set(text))/len(text)
+#	return len(set(text))/len(text)
 # long_words = [w for w in V if len(w) > 10]
 # sorted(long_words)
 # fdist=FreqDist(text)
