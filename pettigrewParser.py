@@ -13,9 +13,6 @@ with open(infile, 'r') as myfile:
 	datas=myfile.read()
 	datas=datas.split('\n\n\n')
 	
-outfile = open("someData.csv","a")
-w=csv.writer(outfile)
-
 indBox=[]
 allBoxes=[]
 
@@ -58,16 +55,23 @@ for box in allBoxes:
 			coll=text.collocations()
 			V=set(text)
 			long_words = [w for w in V if len(w) > 10]
+			
 			indLetter.append(i)
 			indLetter.append(coll)
-			indLetter.append(long_words)			
+			indLetter.append(long_words)	 #maybe split this up later		
+			indLetter.append(len(i))
+		
 			allLetters.append(indLetter)
+		
 			countyMcCountFace=countyMcCountFace+1
 			print(countyMcCountFace)
 			print(indLetter)
 			indLetter=[]
 print ('found ', len(allLetters), ' of Pettigrew\'s papers!')
 
+with open("someData.csv","w") as w:
+	writer=csv.writer(w)
+	writer.writerows(allLetters)
 
 # 
 # len(TJPtext)
