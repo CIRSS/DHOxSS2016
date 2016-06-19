@@ -6,7 +6,8 @@ from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
 import nltk, re, pprint, csv
 
-infile="pettigrewSubset.txt"
+#infile="pettigrewSubset.txt"
+infile='pettigrew_letters_only.txt'
 # index="/Users/thomer2/GitHub/DHOxSS2016/TJPindexClean.csv"
 
 with open(infile, 'r') as myfile:
@@ -69,7 +70,7 @@ for box in allBoxes:
 			indLetter=[]
 print ('found ', len(allLetters), ' of Pettigrew\'s papers!')
 
-with open("someData.csv","w") as w:
+with open("pettigrewData.csv","w",newline="") as w:
 	writer=csv.writer(w)
 	writer.writerows(allLetters)
 
