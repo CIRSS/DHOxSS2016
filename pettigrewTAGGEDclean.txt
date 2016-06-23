@@ -397,14 +397,14 @@ June 8 1818
 
 
 Box 4, folder 135
-<PERSON>John Payne Collier</PERSON> to <ORGANIZATION>TJP
+<PERSON>John Payne Collier</PERSON> to TJP
 
 
-Riverside 
-Maidenhead</ORGANIZATION>
+<LOCATION>Riverside 
+Maidenhead</LOCATION>
 23 Jan 1855
 My dear sir, 
-Your daughter should not want a copy of "the Pain & Sorrow of Evil Marriage" if I had one to give her - not however that she might take warning by it.  
+Your daughter should not want <ARTIFACT>a copy of "the Pain & Sorrow of Evil Marriage"</ARTIFACT> if I had one to give her - not however that she might take warning by it.  
 The fact is that, some months ago, I could easily have complied with your wish, but I sold all my needless books at <ORGANIZATION>Sotheby</ORGANIZATION>'s, and now my only copy of "the Pain" is the one I have had bound up with my incomplete set of the <PERSON>Percy Publn</PERSON>.  I have not one of the any of the later issues, since I ceased to be a member of the society.  I remain, 
 My dear sir, 
 Yours very faithfully, 
@@ -416,9 +416,9 @@ Box 4, folder 136
 <PERSON>William Bengo Collyer</PERSON> to TJP
 
 
-56 <LOCATION>East Street</LOCATION>, <LOCATION>Brighton</LOCATION>, Sept 29 1819.
+<LOCATION>56 East Street</LOCATION>, <LOCATION>Brighton</LOCATION>, Sept 29 1819.
 My dear <PERSON>Pettigrew</PERSON>, 
-It was with the most unfeigned sorrow that I learned from your letter of Saturday the afflicting loss which you have sustained.  It is one to which no consolation can be tendered in words of condolence; and such alleviations as can be derived from human sympathy, and the sincere participation of friendship, you are already assured you possess, so far as I am concerned; and into all those feelings Mrs. <PERSON>Collyer</PERSON> enters, with deep & lively interest, both as it respects yourself and Mrs. <PERSON>Pettigrew</PERSON>[...]
+It was with the most unfeigned sorrow that I learned from your letter of Saturday the afflicting loss which you have sustained.  It is one to which no consolation can be tendered in words of condolence; and such alleviations as can be derived from human sympathy, and the sincere participation of friendship, you are already assured you possess, so far as I am concerned; and into all those feelings <PERSON>Mrs. Collyer</PERSON> enters, with deep & lively interest, both as it respects yourself and <PERSON>Mrs. Pettigrew</PERSON>[...]
 
 
 Box 4, folder 142
@@ -451,97 +451,97 @@ Box 4, folder 148
 Sir <PERSON>Michael Costa</PERSON> to TJP
 
 
-I hope you will excuse me my dear <PERSON>Pettigrew</PERSON> if I do not come to dinner because I am very much engaged to finish my Opera, but I shall be happy to spend the evening with you - my brother accepts with great pleasure your kind invitation.  Pray remember me to Mrs. <PERSON>Pettigrew</PERSON> & believe me in haste 
+I hope you will excuse me my dear <PERSON>Pettigrew</PERSON> if I do not come to dinner because I am very much engaged to finish my Opera, but I shall be happy to spend the evening with you - my brother accepts with great pleasure your kind invitation.  Pray remember me to <PERSON>Mrs. Pettigrew</PERSON> & believe me in haste 
 Yours very truly
 M Costa
 Thursday evening
 
 
 Box 4, folder 157
-<PERSON>Thomas Crofton Croker</PERSON> to <ORGANIZATION>TJP
+<PERSON>Thomas Crofton Croker</PERSON> to TJP
 
 
-Rosamund</ORGANIZATION>'s <PERSON>Bower
-Fulham</PERSON>
+<LOCATION>Rosamund's Bower
+Fulham</LOCATION>
 22nd June 1844
 My dear Sir, 
-I copy Mr <PERSON>Smith</PERSON>'s letter which coupled with a leading article in the time-serving Times, you will at once perceive neither in tone nor temper is likely to advance the interests of the <ORGANIZATION>British Archaeological Society</ORGANIZATION>.  I have written to Mr Way my sentiments upon this matter, fully - especially, as I think I proposed Mr <PERSON>Sidney Herbert</PERSON> and Captain <PERSON>Brandreth</PERSON> as members of the association.  Pray let us discuss this <PERSON>Humphrey</PERSON> barrow question fully on Wednesday, and then we shall establish a barometer by which the new society can be understood.  Forgive this pun, it is not mine, but Hook's and does not refer to <LOCATION>Greenwich Park</LOCATION> but to Sir <PERSON>John Barrow</PERSON> and the Quarterly Review.  
+I copy <PERSON>Mr Smith</PERSON>'s letter which coupled with a leading article in the time-serving Times, you will at once perceive neither in tone nor temper is likely to advance the interests of the <ORGANIZATION>British Archaeological Society</ORGANIZATION>.  I have written to <PERSON>Mr Way</PERSON> my sentiments upon this matter, fully - especially, as I think I proposed <PERSON>Mr Sidney Herbert</PERSON> and <PERSON>Captain Brandreth</PERSON> as members of the association.  Pray let us discuss this <ARTIFACT>Humphrey barrow</ARTIFACT> question fully on Wednesday, and then we shall establish a barometer by which the new society can be understood.  Forgive this pun, it is not mine, but Hook's and does not refer to <LOCATION>Greenwich Park</LOCATION> but to <PERSON>Sir John Barrow</PERSON> and <ARTIFACT>the Quarterly Review</ARTIFACT>.  
 Very truly yours, 
-<ORGANIZATION>T. Crofton Croker
+<PERSON>T. Crofton Croker</PERSON>
 
 
-British Archaeological Association 
-Rosamund's Bower
-Fulham</ORGANIZATION>
+<ORGANIZATION>British Archaeological Association</ORGANIZATION>
+<LOCATION>Rosamund's Bower
+Fulham</LOCATION>
 11th September 1845
 My dear sir, 
 I have written to <PERSON>Hincks</PERSON> urging him to forward his paper without loss of time and stating that we should be happy to illustrate it &c.
-I have also written to the Revd. Mr <PERSON>Phelps</PERSON> as follows, dating it from York [...]
-"I have submitted your communication to me to the <ORGANIZATION>Central Committee</ORGANIZATION> of the B.A.A.  They regret that you should have made so erroneous a statement as that therein contained, and desire me to acquaint you they have ordered your name to be removed from the list of members."  [...] 
-Today I have letters from Sir <PERSON>Thomas Deane</PERSON>, and from Sir <PERSON>William Chatterton</PERSON> desiring their names to be added to the list of subscribers for the <ORGANIZATION>Winchester Vol</ORGANIZATION>. which I will thank you to do.  
+I have also written to the <PERSON>Revd. Mr Phelps</PERSON> as follows, dating it from York [...]
+"I have submitted your communication to me to the <ORGANIZATION>Central Committee</ORGANIZATION> of <ORGANIZATION>the B.A.A</ORGANIZATION>.  They regret that you should have made so erroneous a statement as that therein contained, and desire me to acquaint you they have ordered your name to be removed from the list of members."  [...] 
+Today I have letters from <PERSON>Sir Thomas Deane</PERSON>, and from <PERSON>Sir William Chatterton</PERSON> desiring their names to be added to the list of subscribers for the <ORGANIZATION>Winchester Vol</ORGANIZATION>. which I will thank you to do.  
 <PERSON>Chatterton</PERSON> says - "One word to acknowledge the receipt of the Circular from the "Real, original <ORGANIZATION>Archaeological Association</ORGANIZATION>" N.B. no connection with any other house.  As I suppose this comes from your worship I announce to you that I am quite ready to take a copy provided you do not insist upon my reading the 600 pages!"
 Very faithfully yours,
-<PERSON>T. Crofton Croker
+<PERSON>T. Crofton Croker</PERSON>
 
 
-Box</PERSON> 4, folder 158
+Box 4, folder 158
 <PERSON>George Cruikshank</PERSON> to TJP
 
 
-48 <ORGANIZATION>Mornington Place
-Feb</ORGANIZATION> 12th 1855
-My dear <PERSON>Pettigrew
-I am happy</PERSON> to say that <PERSON>Mrs Cruikshank</PERSON> is very much better already but she still have that nervous jerking - or sudden movement of the limbs - or in fact the whole of the body, you once prescribed some sort of drops as a remedy for this affliction: should she take this again?  If so, be so good as to send a prescription by the bearer.  
+<LOCATION>8 Mornington Place</LOCATION>
+Feb 12th 1855
+My dear <PERSON>Pettigrew</PERSON>
+I am happy to say that <PERSON>Mrs Cruikshank</PERSON> is very much better already but she still have that nervous jerking - or sudden movement of the limbs - or in fact the whole of the body, you once prescribed some sort of drops as a remedy for this affliction: should she take this again?  If so, be so good as to send a prescription by the bearer.  
 Yours 
-G <ORGANIZATION>Cruikshank
+<PERSON>G Cruikshank</PERSON>
 
 
-Box</ORGANIZATION> 4, folder 175
+Box 4, folder 175
 <ORGANIZATION>Duke of Devonshire</ORGANIZATION> to TJP
 
 
-The <ORGANIZATION>Duke of Devonshire</ORGANIZATION> presents his compliments to Mr <PERSON>Pettigrew</PERSON> and will be happy to subscribe for a copy of the History of Mummies.  
+The <ORGANIZATION>Duke of Devonshire</ORGANIZATION> presents his compliments to Mr <PERSON>Pettigrew</PERSON> and will be happy to subscribe for a copy of the <ARTIFACT>History of Mummies</ARTIFACT>.  
 July 14 1833
 
 
 Box 5, folder 202
-Sir <PERSON>Henry Ellis</PERSON> to TJP
+<PERSON>Sir Henry Ellis</PERSON> to TJP
 
 
 My Dear Sir, 
 I have sincere pleasure in acquainting you that I have drawn up a Certificate for you at our Society which goes, by the same messenger who brings this, to <PERSON>Amyot</PERSON> for his signature.  I will afterwards obtain <PERSON>Combe</PERSON>'s and <PERSON>Markland</PERSON>'s, and you shall be suspens. per coll. on Thursday evening. 
 Believe me, 
 Most faithfully yours, 
-<PERSON>Henry Ellis
+<PERSON>Henry Ellis</PERSON> 
 
 
-Bruce Grove
-Tottenham</PERSON> 
+<LOCATION>Bruce Grove
+Tottenham</LOCATION>
 21 Oct. 1830
 My <PERSON>Dear Pettigrew</PERSON>, 
-Your note takes me, after what I forwarded to you, quite by surprise: because from the letter I received I had formed a notion that Mr. <PERSON>Gilbert</PERSON> did not intend to resign the Presidency voluntarily: and you say "he has sent me his resignation in favor of the <ORGANIZATION>Duke of Sussex</ORGANIZATION> and <ORGANIZATION>H.R.H.</ORGANIZATION> has accepted of the nomination"
-I dine with Bland tomorrow at six, and will call on you in <LOCATION>Saville Row</LOCATION> at Four or a little earlier.  
+Your note takes me, after what I forwarded to you, quite by surprise: because from the letter I received I had formed a notion that <PERSON>Mr. Gilbert</PERSON> did not intend to resign the Presidency voluntarily: and you say "he has sent me his resignation in favor of the <PERSON>Duke of Sussex</PERSON> and <PERSON>H.R.H.</PERSON> has accepted of the nomination"
+I dine with <PERSON>Bland</PERSON> tomorrow at six, and will call on you in <LOCATION>Saville Row</LOCATION> at Four or a little earlier.  
 I am ruralising for Vacation here in the midst of sloppy ways - not here voluntarily - but, like thousands more, have a house which I wish to let, and feel it might be kept aired at least a little till I find a tenant for it.
-I conclude Mr <PERSON>Gilbert</PERSON> will not be desirous of going back to the Treasurership.  But of this and all other matters when we meet tomorrow.
-My kindest regards to Mrs. and Miss <PERSON>Pettigrew 
-Ever</PERSON> truly yours, 
-<PERSON>Henry Ellis
+I conclude <PERSON>Mr Gilbert</PERSON> will not be desirous of going back to the Treasurership.  But of this and all other matters when we meet tomorrow.
+My kindest regards to Mrs. and <PERSON>Miss Pettigrew </PERSON>
+Ever truly yours, 
+<PERSON>Henry Ellis</PERSON>
 T.J. Pettigrew
 
 
-My Dear Pettigrew</PERSON>, 
-I thank you for your kind reminder: and will obey it.  But I have forgotten whether the Mummy is to be performed on at <LOCATION>Saville Row</LOCATION> or <ORGANIZATION>Charing Cross</ORGANIZATION>.  A verbal answer will do, if you are at home.  
+My Dear Pettigrew, 
+I thank you for your kind reminder: and will obey it.  But I have forgotten whether the <ARTIFACT>Mummy</ARTIFACT> is to be performed on at <LOCATION>Saville Row</LOCATION> or <ORGANIZATION>Charing Cross</ORGANIZATION>.  A verbal answer will do, if you are at home.  
 Kindest regards to all around you, 
 Ever yours, 
-<PERSON>Henry Ellis
-T.J. Pettigrew</PERSON> Esq. 
+<PERSON>Henry Ellis</PERSON>
+T.J. Pettigrew Esq. 
 &c &c &c 
 
 
 British Museum 
 22 January 1855
 My dear <PERSON>Pettigrew</PERSON>, 
-I had intended calling to leave my card in <LOCATION>Onslow Crescent</LOCATION> first, in thanks for the copy of your 'Letter to the Members of the <ORGANIZATION>British Archaeological Association</ORGANIZATION>', and next as a call of friendship; but my occupations are so continuous, and so unforeseen in many instances where they come upon me, that I have not found time.   So I thank you at once for the 'letter', and I cannot but unhesitatingly express, if it be only in compassion to the society, my sincere regret that a new and an unnecessary break-out should occur, at once distracting both the peace and the efficiency of the archaeological association.
+I had intended calling to leave my card in <LOCATION>Onslow Crescent</LOCATION> first, in thanks for the copy of your <ARTIFACT>'Letter to the Members of the British Archaeological Association</ARTIFACT>', and next as a call of friendship; but my occupations are so continuous, and so unforeseen in many instances where they come upon me, that I have not found time.   So I thank you at once for the 'letter', and I cannot but unhesitatingly express, if it be only in compassion to the society, my sincere regret that a new and an unnecessary break-out should occur, at once distracting both the peace and the efficiency of the archaeological association.
 Every truly yours, 
 <PERSON>Henry Ellis</PERSON>
 
@@ -550,21 +550,21 @@ Box 5, folder 212
 <PERSON>Frederick William Fairholt</PERSON> to TJP
 
 
-11 <LOCATION>Montpelier Square</LOCATION>
+<LOCATION>11 Montpelier Square</LOCATION>
 May 29/52
 Sir
-I cannot resist the desire I feel to write at once & thank you for the lucid and able manner in which you explained the fallacies of Mr <PERSON>Bruce</PERSON> last night at the Antiquaries; and for the manly attempt you made to save the <ORGANIZATION>Society</ORGANIZATION>'s respectability, and prevent an act of mad suicide.  I am so sure that you took the strictly proper view of the question, that I feel bound to thank you for the trouble and exertion you voluntarily underwent and I am sure the Society is much indebted to you in thus doing your best to save that position, which they have now forever lost.  
-I feel so strongly on this point that I cannot trust myself to say all that I feel on Mr <PERSON>Bruce</PERSON>'s pamphlet, it is utterly illogical and inconclusive.  I could attach little value to a simple question, which requires 47 octavo pages to expound, it looks too much like special pleading, while his preface repudiates any claims "morally or justly" [...]
+I cannot resist the desire I feel to write at once & thank you for the lucid and able manner in which you explained the fallacies of <PERSON>Mr Bruce</PERSON> last night at <ORGANIZATION>the Antiquaries</ORGANIZATION>; and for the manly attempt you made to save the <ORGANIZATION>Society</ORGANIZATION>'s respectability, and prevent an act of mad suicide.  I am so sure that you took the strictly proper view of the question, that I feel bound to thank you for the trouble and exertion you voluntarily underwent and I am sure the Society is much indebted to you in thus doing your best to save that position, which they have now forever lost.  
+I feel so strongly on this point that I cannot trust myself to say all that I feel on  <PERSON>Mr Bruce</PERSON>'s pamphlet, it is utterly illogical and inconclusive.  I could attach little value to a simple question, which requires 47 octavo pages to expound, it looks too much like special pleading, while his preface repudiates any claims "morally or justly" [...]
 
 
 Box 5, folder 223
 <PERSON>William Stevenson Fitch</PERSON> to TJP
 
 
-Ipswich September 3rd 1845
+<LOCATION>Ipswich</LOCATION> September 3rd 1845
 My dear sir
-I received a note this morning from our mutual friend Sir <PERSON>William Betham</PERSON>, requesting me to send to you a copy of the letter from Sir <PERSON>Benjamin Tichborne</PERSON> to to King <PERSON>James</PERSON> the 1st, acknowledging the receipt of the warrant to stay the execution of the Lords Cobham and <LOCATION>Grey</LOCATION>, and Sir <PERSON>Griffin Markham</PERSON>, which was read by him at <ORGANIZATION>St John</ORGANIZATION>'s room, at our late <ORGANIZATION>Winchester Congress</ORGANIZATION>.
-I assure you it will give me much pleasure to aid the good cause, in any way in my power, but I fear in this instance it will not be [...] because it was printed with copious notes in one of the volumes of the Archaeologia, after it was exhibited before the <ORGANIZATION>Antiquarian Society</ORGANIZATION> in December 1824, by Mr. <PERSON>Amyot</PERSON>, to whom it was sent by a relative, the late Mr <PERSON>Bennett</PERSON> of <LOCATION>Norwich</LOCATION>, and I am sure that our virulent opponents would be glad to catch hold of any thing to attack us - and they would do so in this instance and accuse us of printing in our journal, what had been given to the public more than twenty years ago - and thank God we were not in the situation of the <PERSON>Parker</PERSON> party who are about to meet [...]
+I received a note this morning from our mutual friend <PERSON>Sir William Betham</PERSON>, requesting me to send to you a copy of <ARTIFACT>the letter from <PERSON>Sir Benjamin Tichborne</PERSON> to to <PERSON>King James the 1st</PERSON></ARTIFACT>, acknowledging the receipt of the warrant to stay the execution of the <PERSON>Lords Cobham</PERSON> and <PERSON>Grey</PERSON>, and <PERSON>Sir Griffin Markham</PERSON>, which was read by him at <ORGANIZATION>St John's room</ORGANIZATION>, at our late <ORGANIZATION>Winchester Congress</ORGANIZATION>.
+I assure you it will give me much pleasure to aid the good cause, in any way in my power, but I fear in this instance it will not be [...] because it was printed with copious notes in one of the volumes of the Archaeologia, after it was exhibited before the <ORGANIZATION>Antiquarian Society</ORGANIZATION> in December 1824, by  <PERSON>Mr. Amyot</PERSON>, to whom it was sent by a relative, the late <PERSON>Mr Bennett</PERSON> of <LOCATION>Norwich</LOCATION>, and I am sure that our virulent opponents would be glad to catch hold of any thing to attack us - and they would do so in this instance and accuse us of printing in our journal, what had been given to the public more than twenty years ago - and thank God we were not in the situation of the <PERSON>Parker party</PERSON> who are about to meet [...]
 
 
 Box 5, folder 227
@@ -573,8 +573,8 @@ Box 5, folder 227
 
 Ordericus.
 Dear sir 
-Having ??? in my preface (vol I. IV) to what I consider the merit of Ordericus from the English point of view, and justice having been done to them, generally, in <LOCATION>Guizot</LOCATION>'s 'Introduction'(V. IV. pp. XII X.L.) and De <LOCATION>Lisle</LOCATION>'s Notice, there is little to add.  This letter is, of itself, a valuable addition to the literary history of the Middle Ages.  
-The want of arrangement in <LOCATION>Ordericus</LOCATION> lessens its value as an historical work, but I have endeavoured to compensate for this by the analytical in the chronological & general index. 
+Having ??? in <ARTIFACT>my preface (vol I. IV)</ARTIFACT> to what I consider the merit of Ordericus from the English point of view, and justice having been done to them, generally, in <ARTIFACT>Guizot's 'Introduction'(V. IV. pp. XII X.L.)</ARTIFACT> and <ARTIFACT>De Lisle's Notice</ARTIFACT>, there is little to add.  This letter is, of itself, a valuable addition to the literary history of the Middle Ages.  
+The want of arrangement in <PERSON>Ordericus</PERSON> lessens its value as an historical work, but I have endeavoured to compensate for this by the analytical in the chronological & general index. 
 I have observed in a note (vol IV, p 141) that <PERSON>Ordericus</PERSON> is very happy in his description of natural occurences, as well as in his personal anecdotes, and his give a great [...] of reality to his work.  See also the story, vol II, p 321 &c.  Perhaps he is most happy in describing [...]
 
 
@@ -582,44 +582,44 @@ Box 5, folder 232
 <PERSON>Henry Hall Gage</PERSON> to TJP
 
 
-Lord <PERSON>Gage</PERSON> will be happy to subscribe for a large paper copy of Mr <PERSON>Pettigrew</PERSON>'s intended work upon the subject of Mummies.
+<PERSON>Lord Gage</PERSON> will be happy to subscribe for a large paper copy of Mr <PERSON>Pettigrew</PERSON>'s intended work upon the subject of <ARTIFACT>Mummies</ARTIFACT>.
 Firle 15th Aug 1833
 NB Ld G requests that his consent may be kept as in several instances it has been insisted that he had subscribed to works which he never heard of.  He therefore gives notice that he engages to take none that he may not remember, unless his consent can be produced.
 
 
 Box 5, folder 241
-<PERSON>Archibald Acheson</PERSON>, 2nd Earl of <LOCATION>Gosford</LOCATION> to <ORGANIZATION>TJP
+<PERSON>Archibald Acheson, 2nd Earl of Gosford></PERSON> to TJP
 
 
-London</ORGANIZATION> 5 April 1833
+<LOCATION>London</LOCATION> 5 April 1833
 My Dear Sir, 
 I had hoped to have thanked you in person today for all your kindness, a severe cold prevented my doing so.  I should have had much pleasure in witnessing the curious exhibition at <LOCATION>Charing Cross Hospital</LOCATION> tomorrow; but as it must be my last day in town & having many ... to execute I have only to express how much I regret that I cannot avail myself of your kind & tempting offer.
 Believe me
 Yours ever faithfully
-<PERSON>Gosford
-T.J. Pettigrew Esq</PERSON>
+<PERSON>Gosford</PERSON>
+T.J. Pettigrew Esq
 &c &c &c
 
 
 Box 6 folder 257
-<PERSON>James Burton</PERSON> to <ORGANIZATION>TJP
+<PERSON>James Burton</PERSON> to TJP
 
 
-St Leonard</ORGANIZATION> on sea
+<LOCATION>St Leonard on sea</LOCATION>
 July 5 1833
 Dear Sir 
-Please do insert my name as a subscriber to your History of <ORGANIZATION>Mummys
-Yours</ORGANIZATION> very truly
-<PERSON>James Burton
-T.J. Pettigrew</PERSON> Esq.
+Please do insert my name as a subscriber to your <ARTIFACT>History of Mummys
+Yours</ARTIFACT> very truly
+<PERSON>James Burton</PERSON>
+T.J. Pettigrew Esq.
 &c &c &C
 
 
 My dear Sir, 
-Our protege of the <LOCATION>White River</LOCATION> is, I understand, again confined to his bed.  In the absence of Mr <PERSON>Hoskins</PERSON>, & of our friend <PERSON>Wilkinson</PERSON>, I am requested to ask you to have the kindness to pay him a visit.  
+Our protege of the <LOCATION>White River</LOCATION> is, I understand, again confined to his bed.  In the absence of <PERSON>Mr Hoskins</PERSON>, & of our friend <PERSON>Wilkinson</PERSON>, I am requested to ask you to have the kindness to pay him a visit.  
 Yours very truly, 
 <PERSON>James Burton</PERSON>
-49 <ORGANIZATION>Jermyn St</ORGANIZATION>
+<LOCATION>49 Jermyn St</LOCATION>
 Saturday eve
 
 
@@ -632,21 +632,21 @@ Monday
 
 
 Box 6 folder 262
-<PERSON>William Richard Hamilton</PERSON> to <ORGANIZATION>TJP
+<PERSON>William Richard Hamilton</PERSON> to TJP
 
 
-Chelsea
-Feb</ORGANIZATION> 7 /37
+<LOCATION>Chelsea</LOCATION>
+Feb 7 /37
 My dear sir, 
-I beg return you my best thanks for your kindness in sending me an admission ticket for your lecture on Egyptian Antiquities, which I hope - at least some of them, I be able to attend.
+I beg return you my best thanks for your kindness in sending me an admission ticket for your <ARTIFACT>lecture on Egyptian Antiquities</ARTIFACT>, which I hope - at least some of them, I be able to attend.
 [...] 
 WR <PERSON>Hamilton</PERSON>
 
 
-12 <PERSON>Bolton</PERSON> Row
+<LOCATION>12 Bolton Row</LOCATION>
 Oct 29/41
 Dear Sir, 
-I shall be most happy to become a subscriber to your Encyclopaedia Aegyptiana, and am glad to hear that a book which may be so useful is in such good hands. 
+I shall be most happy to become a subscriber to your <ARTIFACT>Encyclopaedia Aegyptiana</ARTIFACT>, and am glad to hear that a book which may be so useful is in such good hands. 
 Yours truly,
 WR <PERSON>Hamilton</PERSON>
 
@@ -658,11 +658,11 @@ Box 6 folder 263
 <LOCATION>Lisburn</LOCATION>
 29th of 4th mo 1842
 Dear Pettigrew
-My relative Dr. <PERSON>Henry Richardson</PERSON> having just completed his professional education as surgeon & physician, and intending to take <LOCATION>London</LOCATION> on his tour to <LOCATION>Paris</LOCATION>, I take the liberty to introduce him to thy kind notice, as a young man of excellent character & qualifications.  Knowing as I do thy extensive influence & acquaintance, may I venture to solicit thy kind interest & recommendation on his behalf in case he should with to see, in <LOCATION>London</LOCATION> or elsewhere, any particular object connected with the profession?  He will be interested in seeing thy collection of Egyptian relics. 
+My relative <PERSON>Dr. Henry Richardson</PERSON> having just completed his professional education as surgeon & physician, and intending to take <LOCATION>London</LOCATION> on his tour to <LOCATION>Paris</LOCATION>, I take the liberty to introduce him to thy kind notice, as a young man of excellent character & qualifications.  Knowing as I do thy extensive influence & acquaintance, may I venture to solicit thy kind interest & recommendation on his behalf in case he should with to see, in <LOCATION>London</LOCATION> or elsewhere, any particular object connected with the profession?  He will be interested in seeing thy collection of <ARTIFACT>Egyptian relics</ARTIFACT>. 
 I am sorry that my health has not been good of late, of which he will inform thee.  I shall be truly glad to hear of thy prosperity and also of the welfare of thy family.  
 My kind regard to thy wife & believe me 
 Thy sincere friend
-<PERSON>Thos</PERSON>. Hancock
+<PERSON>Thos. Hancock</PERSON>
 
 
 Box 6, folder 270
@@ -672,13 +672,13 @@ Box 6, folder 270
 My dear <PERSON>Pettigrew</PERSON>, 
 I fully intended to avail myself of your kind invitation to view your Egyptian anatomist, whose fame has already reached me, and whose zeal to retrieve the ancient celebrity of the alexandrian school in that hot and occasionally pestilent climate intitles him to the highest commendation: but I am afraid of encountering the night air of this inclement season, and am actually labouring under a severe cold. 
 Yours most truly, 
-<PERSON>John Haslam
-Hart</PERSON> Street
+<PERSON>John Haslam</PERSON>
+<LOCATION>Hart Street</LOCATION>
 25 Jan 1833
 
 
 My dear Pettigrew
-Do not suppose me to have neglected your invitation to the Conversazione the truth is I have been unwell, and advised not to venture out in the evening.  At your next meeting I fully intend to pay my respects.
+Do not suppose me to have neglected your invitation to <ARTIFACT>the Conversazione the truth is I have been unwell, and advised not to venture out in the evening.  At your next meeting I fully intend to pay my respects.
 Yours most truly
 <PERSON>John Haslam</PERSON>
 5 April 1832
@@ -695,7 +695,7 @@ I ought to apologise for not having sooner answered your note, allow me however 
 Believe me, 
 Very truly yours, 
 <PERSON>Caesar Hawkins</PERSON>
-Half Moon Street
+<LOCATION>Half Moon Street</LOCATION>
 Monday morn.
 
 
@@ -703,7 +703,7 @@ Box 6, folder 274
 <PERSON>Edward Hawkins</PERSON> to TJP
 
 
-Mr <PERSON>Hawkins</PERSON> presents his Compl. to Mr <PERSON>Pettigrew</PERSON>, and sends him a copy of the Charter and Statutes of the Soc. of antiquaries, and requests him to insert in the margin any remarks, alterations or additions which he thinks may tend to the improvement of the <ORGANIZATION>Society</ORGANIZATION>, and to return it to him for the consideration of the Committee.
+<PERSON>Mr Hawkins</PERSON> presents his Compl. to Mr <PERSON>Pettigrew</PERSON>, and sends him a copy of <ARTIFACT>the Charter and Statutes of the Soc. of antiquaries</ARTIFACT>, and requests him to insert in the margin any remarks, alterations or additions which he thinks may tend to the improvement of the <ORGANIZATION>Society</ORGANIZATION>, and to return it to him for the consideration of the Committee.
 B.M.
 20 Dec. 1852
 
@@ -714,20 +714,20 @@ Box 6, folder 275
 
 My dear sir, 
 I can shew you an autograph of <PERSON>Harvey</PERSON>, (which I suppose you can take off with tracing paper) and shall be happy to go to the College for that purpose.   Perhaps you can meet me there on Thursday (the day after tomorrow) at 5 P.M.
-The bust of <PERSON>Galen</PERSON> is said to be an antique and was presented to the college by Lord Ashburton
+The <ARTIFACT>bust of Galen</ARTIFACT> is said to be an antique and was presented to the college by <PERSON>Lord Ashburton</PERSON>
 I am, 
 Dear sir,
 Yours faithfully
-<PERSON>Francis Hawkins
-Curzon</PERSON> St
+<PERSON>Francis Hawkins</PERSON>
+<LOCATION>Curzon St</LOCATION>
 August 27.
 
 
 My dear sir,
 I am afraid that the question which you have sent me may be easily answered for the <ORGANIZATION>College of Physicians &</ORGANIZATION> almost the whole of its library were consumed by the Fire of <LOCATION>London</LOCATION>, 1666, only 112 volumes having been saved from the flames. 
 Yours faithfully
-<ORGANIZATION>James Hawkins
-Curzon St</ORGANIZATION>
+<ORGANIZATION>James Hawkins</ORGANIZATION>
+<LOCATION>Curzon St<LOCATION>
 March 23. 1838
 
 
