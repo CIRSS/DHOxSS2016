@@ -1,0 +1,221 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 1 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 1",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 2 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 3 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 3",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 4 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 4",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 5 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 5",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 4",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 4",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          ""
+        ],
+        "to": "TJP"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 4",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 4",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          ""
+        ],
+        "to": "TJP"
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 3 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 3",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 2 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 1 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 1",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 4 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 4",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 5 using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 5",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Column 5 using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 5",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Column 1 to boxNumber",
+    "oldColumnName": "Column 1",
+    "newColumnName": "boxNumber"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Column 2 to folderNumber",
+    "oldColumnName": "Column 2",
+    "newColumnName": "folderNumber"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Column 3 to authorName",
+    "oldColumnName": "Column 3",
+    "newColumnName": "authorName"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Column 4 to recpientName",
+    "oldColumnName": "Column 4",
+    "newColumnName": "recpientName"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column authorName to senderName",
+    "oldColumnName": "authorName",
+    "newColumnName": "senderName"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Column 5 to date",
+    "oldColumnName": "Column 5",
+    "newColumnName": "date"
+  }
+]
