@@ -1,0 +1,8 @@
+* Created pettigrewDB.sqlite from git/DHOxSS2016/openRefineOutput 
+- changed default TEXT column of boxNumber to INT
+
+* Created pettigrewDB2.sqlite, copy of the pettigrewDB.sqlite
+- also changed folderNumber to INT!
+- changed "folders 119" to "119"
+
+
