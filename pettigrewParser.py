@@ -1,5 +1,5 @@
 #oh man i totally forgot python
-#been using python 3.4 without any major issues - that also seems to be what's needed for NLTK lately
+#python 3.4
 
 #imports - clean these up once i figure out what to do
 from nltk.tag import StanfordNERTagger
@@ -8,8 +8,7 @@ import nltk, re, pprint, csv
 
 #infile="pettigrewSubset.txt"
 #infile='inputs/pettigrew_letters_only.txt'
-infile='inputs/pettigrewlettersNER.txt'
-# index="/Users/thomer2/GitHub/DHOxSS2016/TJPindexClean.csv"
+infile='inputs/pettigrewNERraw.txt'
 
 with open(infile, 'r') as myfile:
 	datas=myfile.read()
@@ -31,15 +30,6 @@ for i in datas:
 #		print(indBox)
 allBoxes.append(indBox) #necessary to close loop and append last box
 
-#silly counter printer that takes up less printspace than full thingy
-
-for i in allBoxes:
-	if i==[]:
-		pass
-	else:
-		print("bop")
-		for n in i:
-			print ("beep")
 
 indLetter=[]
 allLetters=[]
@@ -60,7 +50,7 @@ for box in allBoxes:
 			
 			indLetter.append(i)
 			indLetter.append(coll)
-			indLetter.append(long_words)	 #maybe split this up later		
+			indLetter.append(long_words)	 #maybe split this up/out later		
 			indLetter.append(len(i))
 		
 			allLetters.append(indLetter)
@@ -71,7 +61,7 @@ for box in allBoxes:
 			indLetter=[]
 print ('found ', len(allLetters), ' of Pettigrew\'s papers!')
 
-with open("outputs/pettigrewNERData.csv","w",newline="") as w:
+with open("outputs/pettigrewNERData2.csv","w",newline="") as w:
 	writer=csv.writer(w)
 	writer.writerows(allLetters)
 
